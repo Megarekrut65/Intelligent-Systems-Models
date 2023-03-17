@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f06aabec-e884-47f1-84ef-f7cceda3b3e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lab5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Heart Attack.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heart.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Age.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +88,7 @@
       <workItem from="1678296170443" duration="30000" />
       <workItem from="1678883691697" duration="568000" />
       <workItem from="1678990824152" duration="1987000" />
-      <workItem from="1679048139643" duration="894000" />
+      <workItem from="1679048139643" duration="990000" />
     </task>
     <servers />
   </component>
